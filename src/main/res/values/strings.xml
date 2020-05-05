@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Login App</string>
+    <string name="action_settings">singOut</string>
+    <string name="email">Enter Email..</string>
+    <string name="password">Enter Password</string>
+    <string name="mbtn_login">Login</string>
+</resources>
